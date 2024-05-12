@@ -28,3 +28,5 @@ for file in "$src_dir"/*.rst; do
     fi
 done
 ```
+
+其它参考：<https://github.com/theicfire/makefiletutorial>
